@@ -1,7 +1,7 @@
 ## Warsztaty TDD ##
 
 ##
-* Małgorzata Małgosia Fydrych
-* Dominik Trzetrzelewski 
+* Małgorzata Fydrych
+* Dominik Trzetrzelewski!
 #
 
