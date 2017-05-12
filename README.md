@@ -2,6 +2,6 @@
 
 ##
 * Małgorzata Fydrych
-* Dominik Trzetrzelewski!?
+* Dominik Trzetrzelewski!?§
 #
 
